@@ -4,7 +4,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline comp
 
 ---
 
-## 🚀 Features
+## Features
 
 ### **1. PDF Processing**
 - Loads or downloads `Astronomy.pdf`
